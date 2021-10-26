@@ -1,0 +1,25 @@
+{
+  "name": "-Dicord-bot-using-Node.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pramishacp/-Dicord-bot-using-Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pramishacp/-Dicord-bot-using-Node.js/issues"
+  },
+  "homepage": "https://github.com/pramishacp/-Dicord-bot-using-Node.js#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0"
+  }
+}
